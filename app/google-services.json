@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "192628406686",
+    "firebase_url": "https://keyfixer-forcustomer.firebaseio.com",
+    "project_id": "keyfixer-forcustomer",
+    "storage_bucket": "keyfixer-forcustomer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192628406686:android:baab9c2b41233d66",
+        "android_client_info": {
+          "package_name": "com.vuanh.kfu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192628406686-o1oe05jpvmb8v4bn70u3ks5dre4v84p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vuanh.kfu",
+            "certificate_hash": "80c907a83b45fcfcfe0d65865fb39e9051b34cfe"
+          }
+        },
+        {
+          "client_id": "192628406686-qt7fuvb6ji0101g2lftddcg1g3qtuoe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zQHmGhDgkwvvrQDUI_MaYBQOMRii3F0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192628406686-qt7fuvb6ji0101g2lftddcg1g3qtuoe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
